@@ -7,6 +7,9 @@
   First name:<br>
   <input type="text" name="firstname" value="">
   <br>
+  middle name:<br>
+  <input type="text" name="firstname" value="">
+  <br>
   Last name:<br>
   <input type="text" name="lastname" value="">
   <br><br>
